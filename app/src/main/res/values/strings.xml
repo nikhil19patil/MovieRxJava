@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieRx</string>
+    <string name="director">Director</string>
+    <string name="writer">Writer</string>
+    <string name="language">Language</string>
+    <string name="plot">Plot</string>
+    <string name="movie_list_empty_msg">Movie List is Empty</string>
+</resources>
